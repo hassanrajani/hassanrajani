@@ -1,4 +1,4 @@
-![logo](https://github.com/hassanrajani/blob/main/banner_img.jpg)
+![logo](https://github.com/hassanrajani/hassanrajani/blob/main/banner_img.jpg)
 <h1 align="center">Hi 👋, I'm M.Hassan Rajani</h1>
 <h3 align="center">A passionate Full stack developer from Pakistan.</h3>
 <img alt="coding" align="right" width="400" src="coding_gif.gif">
