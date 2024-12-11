@@ -1,26 +1,26 @@
-![logo](https://github.com/hassan2112d/hassan2112d/blob/main/banner_img.jpg)
+![logo](https://github.com/hassanrajani/blob/main/banner_img.jpg)
 <h1 align="center">Hi 👋, I'm M.Hassan Rajani</h1>
 <h3 align="center">A passionate Full stack developer from Pakistan.</h3>
 <img alt="coding" align="right" width="400" src="coding_gif.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan2112d&label=Profile%20views&color=0e75b6&style=flat" alt="hassan2112d" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanrajani&label=Profile%20views&color=0e75b6&style=flat" alt="hassanrajani" /> </p>
 
 
 
 - 🌱 I’m currently learning **Artifical Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://hassan2112d.github.io/](https://hassan2112d.github.io/)
+- 👨‍💻 All of my projects are available at [https://hassanrajani.github.io/](https://hassanrajani.github.io/)
 
 - 💬 Ask me about **PHP, Laravel , AI**
 
-- 📫 How to reach me **hassan2112d@aptechgdn.net**
+- 📫 How to reach me **hassanrajani@aptechgdn.net**
 
-- 📄 Know about my experiences [https://hassan2112d.github.io/images/M.Hassan%20ResumeCv.pdf](https://hassan2112d.github.io/images/M.Hassan%20ResumeCv.pdf)
+- 📄 Know about my experiences [https://hassanrajani.github.io/images/M.Hassan%20ResumeCv.pdf](https://hassanrajani.github.io/images/M.Hassan%20ResumeCv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hassan-rajani-84bb8722a/" target="blank"><img align="center" src="https://camo.githubusercontent.com/59243a733d40bfccc7b3a0abf4f9b167cb25fa22378ce39b1fa4815188cba506/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d4c696e6b6564496e266c6f676f3d6c696e6b6564696e266c6162656c3d26636f6c6f723d303037374235266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" alt="https://www.linkedin.com/in/hassan-rajani-84bb8722a/" height="60" width="140" /></a>
-<a href="https://www.leetcode.com/hassan2112d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.instagram.com/hassann_.1/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hassanrajani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.instagram.com/hassann_.1/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,6 +29,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan2112d&show_icons=true&locale=en&layout=compact" alt="hassan2112d" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanrajanid&show_icons=true&locale=en&layout=compact" alt="hassanrajani" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan2112d&" alt="hassan2112d" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanrajani&" alt="hassanrajani" /></p>
