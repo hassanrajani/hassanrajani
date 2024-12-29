@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **PHP, Laravel , AI**
 
-- 📫 How to reach me **hassanrajani@aptechgdn.net**
+- 📫 How to reach me **mohammadhasanhasnain@gmail.com**
 
 - 📄 Know about my experiences [https://hassanrajani.github.io/images/M.Hassan20ResumeCv.pdf](https://github.com/hassanrajani/hassanrajani.github.io/blob/main/src/images/M.Hassan_CV.pdf)
 
