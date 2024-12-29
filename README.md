@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hassanrajani@aptechgdn.net**
 
-- 📄 Know about my experiences [https://hassanrajani.github.io/images/M.Hassan20ResumeCv.pdf](https://hassanrajani.github.io/images/M.Hassan%20ResumeCv.pdf)
+- 📄 Know about my experiences [https://hassanrajani.github.io/images/M.Hassan20ResumeCv.pdf](https://github.com/hassanrajani/hassanrajani.github.io/blob/main/src/images/M.Hassan_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
