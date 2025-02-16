@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mohammadhasanhasnain@gmail.com**
 
-- 📄 Know about my experiences [https://hassanrajani.github.ioM.Hassan20ResumeCv.pdf](https://github.com/hassanrajani/hassanrajani.github.io/M.Hassan_CV.pdf)
+- 📄 Know about my experiences [https://github.com/hassanrajani/hassanrajani.github.io/blob/main/M.Hassan_Cv.pdf](https://github.com/hassanrajani/hassanrajani.github.io/blob/main/M.Hassan_Cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
