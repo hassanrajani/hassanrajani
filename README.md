@@ -15,19 +15,19 @@
 ---
 
 ### 🚀 About Me
-I am a dedicated **Full-Stack Developer** based in Pakistan, specializing in the **Laravel-Inertia-Vue** ecosystem. I bridge the gap between robust backend architecture and seamless frontend experiences. Currently, I am deeply involved in building **Agentic AI workflows** and automating business processes to drive efficiency.
+I am a dedicated **Full-Stack Developer** from Pakistan, specializing in building high-performance web applications using the **Laravel-Inertia-Vue** stack. Beyond traditional web development, I am passionate about **Agentic AI** and building automated workflows that solve real-world business challenges.
 
 * 🛠️ Expert in **Laravel, Vue.js, and Inertia.js**.
-* 🤖 Building intelligent systems using **n8n, Agentic AI, and LLM integrations**.
-* 🌐 Managing scalable infrastructure with **Docker, aaPanel, and Cloudflare**.
-* 🌱 Exploring the depths of **Machine Learning & AI Innovation**.
+* 🤖 Architecting intelligent systems with **n8n, Agentic AI, and LLMs**.
+* 🌐 Experienced in server management with **Docker, aaPanel, and Cloudflare**.
 * 👨‍💻 Portfolio: **[hassanrajani.github.io](https://hassanrajani.github.io/)**
+* 📫 Reach out: **mohammadhasanhasnain@gmail.com**
 
 ---
 
 ### 🛠 Tech Stack
 
-**Frontend & Backend**
+**Core Development**
 <div align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -41,16 +41,16 @@ I am a dedicated **Full-Stack Developer** based in Pakistan, specializing in the
 <div align="left">
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=robot&logoColor=white" />
 </div>
 
-**DevOps & Tools**
+**DevOps & Databases**
 <div align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
@@ -58,8 +58,13 @@ I am a dedicated **Full-Stack Developer** based in Pakistan, specializing in the
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassanrajani&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Hassan's Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanrajani&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Hassan's Languages" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanrajani&theme=vision-friendly-dark" alt="Hassan's Streak" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassanrajani&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="Hassan's Overall Stats" />
 </div>
 
 ---
