@@ -2,6 +2,7 @@
   <img src="https://github.com/hassanrajani/hassanrajani/blob/main/banner_img.jpg" width="100%" alt="Banner" />
   
   <h1>Hi 👋, I'm Hassan Rajani</h1>
+  
   <p><strong>Full-Stack Developer | Agentic AI & Automation Specialist | Open Source Contributor</strong></p>
 
   <p>
