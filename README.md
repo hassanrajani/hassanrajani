@@ -1,78 +1,74 @@
 <div align="center">
   <img src="https://github.com/hassanrajani/hassanrajani/blob/main/banner_img.jpg" width="100%" alt="Banner" />
 
-  <br />
+  <br/>
 
-  <h1>Greetings! I'm Hassan Rajani 🚀</h1>
+  <h1>✨ Hassan Rajani</h1>
+  <p>🚀 <b>Full-Stack Engineer | Agentic AI Specialist | Automation Architect</b></p>
 
-  <p align="center">
-    <strong>Full-Stack Engineer | Agentic AI & Automation Specialist | DevOps Enthusiast</strong>
-  </p>
+  <codeBlock>
+    PHP • Laravel • Vue.js • Inertia.js • Python • n8n • Docker • AI Agents
+  </codeBlock>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=hassanrajani&label=PROFILE+VIEWS&color=2563eb&style=flat-square" alt="Views" />
-    <img src="https://img.shields.io/github/followers/hassanrajani?label=FOLLOW&style=flat-square&color=2563eb" alt="Followers">
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Scalable_Systems-0070f3?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Status-Open_For_Collaboration-success?style=for-the-badge" />
   </p>
 </div>
 
 ---
 
-### 🖋️ Professional Summary
-
-High-impact **Full-Stack Developer** based in Pakistan, specializing in the **Laravel-Inertia-Vue** ecosystem. I bridge the gap between traditional web architecture and cutting-edge **Agentic AI**, crafting automated workflows that optimize business intelligence and operational efficiency.
-
-- 🛠️ **Engineering:** Expert in scalable architecture using Laravel & Vue.js.
-- 🤖 **Intelligence:** Building autonomous agent workflows with n8n & LLMs.
-- 🌐 **Infrastructure:** Proficient in Dockerized environments and CI/CD pipelines.
+### ⚡ Professional Brief
+I architect high-performance digital ecosystems. My expertise lies in the **Laravel-Inertia-Vue** stack, integrated with **Agentic AI** to automate complex business logic. Currently focused on building autonomous workflows and scalable full-stack applications.
 
 ---
 
-### 💻 Technical Ecosystem
+### 📊 Engineering Insights
+<!-- Ye layout optimized hai fetch errors ko prevent karne ke liye -->
+<p align="center">
+  <a href="https://github.com/hassanrajani">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanrajani&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=0070f3&icon_color=58a6ff" alt="Overall Stats" height="190px" />
+  </a>
+  <a href="https://github.com/hassanrajani">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanrajani&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0070f3&icon_color=58a6ff" alt="Top Languages" height="190px" />
+  </a>
+</p>
 
-| Category | Tools & Technologies |
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanrajani&theme=react&hide_border=true&background=0D1117&ring=0070f3&fire=0070f3&currStreakLabel=58a6ff" alt="Streak Stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassanrajani&theme=react" alt="Profile Summary" />
+</p>
+
+---
+
+### 🛠️ Core Technology Stack
+
+| Ecosystem | Technologies |
 | :--- | :--- |
-| **Core Dev** | `PHP` `Laravel` `Vue.js` `Inertia.js` `JavaScript` `Python` |
-| **AI & Automation** | `n8n` `OpenAI` `Gemini` `Prompt Engineering` |
-| **DevOps & Data** | `Docker` `MySQL` `Linux` `GitHub Actions` `Cloudflare` |
+| **Backend / API** | `PHP 8.x` `Laravel 11` `Python` `Node.js` |
+| **Frontend / UI** | `Vue 3` `Inertia.js` `Tailwind CSS` `TypeScript` |
+| **AI & Automation** | `n8n` `LangChain` `OpenAI API` `Gemini` |
+| **Infrastructure** | `Docker` `GitHub Actions` `aaPanel` `Cloudflare` |
 
 ---
 
-### 📊 Engineering Metrics
-
-<div align="center">
-  <!-- Stats Card 1: Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanrajani&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb" alt="Top Languages" />
-
-  <!-- Stats Card 2: Main Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassanrajani&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=2563eb&icon_color=2563eb" alt="General Stats" />
-</div>
-
-<div align="center">
-  <!-- Streak Card -->
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanrajani&theme=transparent&hide_border=true&stroke=2563eb&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="GitHub Streak" />
-</div>
+### 📈 Activity & Contribution
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanrajani&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=0070f3" width="100%" alt="Contribution Graph" />
+</p>
 
 ---
 
-### 🤝 Strategic Connections
+### 🔗 Digital Presence
+<div align="center">
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/hassan-rajani-84bb8722a/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mohammadhasanhasnain@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.leetcode.com/hassanrajani" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://hassanrajani.github.io/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
+| [**Portfolio**](https://hassanrajani.github.io/) | [**LinkedIn**](https://www.linkedin.com/in/hassan-rajani-84bb8722a/) | [**LeetCode**](https://www.leetcode.com/hassanrajani) | [**Email**](mailto:mohammadhasanhasnain@gmail.com) |
+| :---: | :---: | :---: | :---: |
+
 </div>
 
 <br />
 
-<p align="center">
-  <sub>Built with precision and purpose. <strong>© 2026 Hassan Rajani</strong></sub>
-</p>
+<div align="center">
+  <sub>Generated with precision • <b>Hassan Rajani © 2026</b></sub>
+</div>
