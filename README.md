@@ -46,10 +46,10 @@ I'm a **Full-Stack Engineer** specializing in the **Laravel + Inertia.js + Vue 3
 
 | Layer | Technologies |
 | :--- | :--- |
-| **Languages** | `PHP 8.x` `JavaScript (ES2023)` `SQL` `Bash` |
-| **Backend** | `Laravel 11` `REST APIs` `Queues & Jobs` `WebSockets` |
-| **Frontend** | `Vue 3 (Composition API)` `Inertia.js` `Tailwind CSS` `Vite` |
-| **AI / LLMs** | `OpenAI GPT-4` `Google Gemini` `LangChain` `RAG` `Prompt Engineering` |
+| **Languages** | `PHP` `JavaScript` `SQL` `Bash` |
+| **Backend** | `Laravel` `REST APIs` `Queues & Jobs` `WebSockets` |
+| **Frontend** | `Vue (Composition API)` `Inertia.js` `Tailwind CSS` `Vite` |
+| **AI / LLMs** | `OpenAI` `Google Gemini` `LangChain` `RAG` `Prompt Engineering` |
 | **Automation** | `n8n` `GitHub Actions` `Custom Agentic Workflows` |
 | **Database** | `MySQL` `Redis` |
 | **DevOps** | `Docker` `Linux (Ubuntu)` `aaPanel` `Cloudflare` `Nginx` |
