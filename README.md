@@ -11,15 +11,15 @@
     <img src="https://img.shields.io/badge/Location-Karachi%2C_Pakistan-0070f3?style=flat-square" alt="Location" />
   </p>
 
-  <h1>Hassan Rajani</h1>
+  <h1>M.Hassan Rajani</h1>
   <h3>Full-Stack Engineer &nbsp;·&nbsp; Agentic AI Specialist &nbsp;·&nbsp; Automation Architect</h3>
   <p><i>Building scalable, AI-powered systems with Laravel · Vue 3 · Inertia.js · n8n · LangChain</i></p>
 
   <br/>
 
   <p>
-    <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-    <img src="https://img.shields.io/badge/Vue_3-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue 3" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />
     <img src="https://img.shields.io/badge/Inertia.js-7C3AED?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js" />
     <img src="https://img.shields.io/badge/Agentic_AI-0070f3?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
     <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
