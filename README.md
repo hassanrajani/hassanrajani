@@ -1,6 +1,7 @@
 <!-- SEO: Full-Stack Engineer | Laravel | Vue 3 | Inertia.js | Agentic AI | n8n Automation | LangChain | OpenAI | Pakistan -->
 
 <div align="center">
+  
   <img src="https://github.com/hassanrajani/hassanrajani/blob/main/banner_img.jpg" width="100%" alt="Hassan Rajani – Full-Stack Engineer & Agentic AI Specialist" />
   <br/><br/>
 
